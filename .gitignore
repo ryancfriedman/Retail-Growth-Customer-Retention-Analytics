@@ -1,0 +1,12 @@
+# Raw data
+data/raw/*
+!data/raw/README.md
+
+# Large processed data
+data/processed/*.csv
+data/*.db
+
+# Optional local files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
